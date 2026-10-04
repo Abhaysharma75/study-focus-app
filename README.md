@@ -1,6 +1,6 @@
 # study-focus-app
 # 📚 StudyFocus — Smart Study & Productivity Dashboard
-
+https://study-focus-taupe.vercel.app
 **StudyFocus** is a modern web-based study and productivity dashboard designed to help students organize their daily timetable, maintain focused study sessions, set weekly goals, and track their overall progress.
 
 The project combines **study planning, focus sessions, productivity tracking, and progress visualization** into a single clean and user-friendly interface.
